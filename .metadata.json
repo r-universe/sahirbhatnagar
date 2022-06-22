@@ -14,9 +14,5 @@
   {
     "package": "manhattanly",
     "oncran": true
-  },
-  {
-    "package": "sail",
-    "oncran": true
   }
 ]
