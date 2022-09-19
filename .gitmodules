@@ -8,18 +8,8 @@
 	url = https://github.com/sahirbhatnagar/casebase
 	shallow = true
 	registered = true
-[submodule "eclust"]
-	path = eclust
-	url = https://github.com/sahirbhatnagar/eclust
-	shallow = true
-	registered = true
 [submodule "ggmix"]
 	path = ggmix
 	url = https://github.com/sahirbhatnagar/ggmix
-	shallow = true
-	registered = true
-[submodule "manhattanly"]
-	path = manhattanly
-	url = https://github.com/sahirbhatnagar/manhattanly
 	shallow = true
 	registered = true

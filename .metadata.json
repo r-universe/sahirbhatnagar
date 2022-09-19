@@ -4,15 +4,7 @@
     "oncran": true
   },
   {
-    "package": "eclust",
-    "oncran": true
-  },
-  {
     "package": "ggmix",
-    "oncran": true
-  },
-  {
-    "package": "manhattanly",
     "oncran": true
   }
 ]
