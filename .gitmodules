@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "casebase"]
+	path = casebase
+	url = https://github.com/sahirbhatnagar/casebase
+	shallow = true
+	registered = true
 [submodule "eclust"]
 	path = eclust
 	url = https://github.com/sahirbhatnagar/eclust

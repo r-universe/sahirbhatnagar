@@ -1,5 +1,9 @@
 [
   {
+    "package": "casebase",
+    "oncran": true
+  },
+  {
     "package": "eclust",
     "oncran": true
   },
