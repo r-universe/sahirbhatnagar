@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "casebase"]
-	path = casebase
-	url = https://github.com/sahirbhatnagar/casebase
-	shallow = true
-	registered = true
-[submodule "eclust"]
-	path = eclust
-	url = https://github.com/sahirbhatnagar/eclust
-	shallow = true
-	registered = true
 [submodule "ggmix"]
 	path = ggmix
 	url = https://github.com/sahirbhatnagar/ggmix
@@ -21,5 +11,15 @@
 [submodule "manhattanly"]
 	path = manhattanly
 	url = https://github.com/sahirbhatnagar/manhattanly
+	shallow = true
+	registered = true
+[submodule "casebase"]
+	path = casebase
+	url = https://github.com/sahirbhatnagar/casebase
+	shallow = true
+	registered = true
+[submodule "eclust"]
+	path = eclust
+	url = https://github.com/sahirbhatnagar/eclust
 	shallow = true
 	registered = true
