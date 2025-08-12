@@ -11,6 +11,3 @@
 [submodule "ggmix"]
 	path = ggmix
 	url = https://github.com/sahirbhatnagar/ggmix
-[submodule "manhattanly"]
-	path = manhattanly
-	url = https://github.com/sahirbhatnagar/manhattanly
