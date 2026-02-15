@@ -5,9 +5,6 @@
 [submodule "casebase"]
 	path = casebase
 	url = https://github.com/sahirbhatnagar/casebase
-[submodule "eclust"]
-	path = eclust
-	url = https://github.com/sahirbhatnagar/eclust
 [submodule "ggmix"]
 	path = ggmix
 	url = https://github.com/sahirbhatnagar/ggmix
